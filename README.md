@@ -21,7 +21,7 @@ Drawer merupakan sebuah tampilan side bar menu yang digunakan untuk route, drawe
 
 drawer sendiri merupakan properti atau name argumen dari Widget Scaffold yang membutuhkan Widget Drawer().
 
-foto 1
+![Capture](https://github.com/appworkspaceRM/widget-drawer/assets/135511281/415cde81-1bdb-4ed1-99ed-6461a437a5b9)
 
 ```dart
 import 'package:flutter/material.dart';
@@ -124,7 +124,7 @@ class HomePage extends StatelessWidget {
 
 ```
 
-foto 2
+![code-snapshot1](https://github.com/appworkspaceRM/widget-drawer/assets/135511281/e15d6d55-9692-4f94-a484-f376c506f600)
 
 ```dart
 import 'package:flutter/material.dart';
@@ -209,7 +209,7 @@ class PageOne extends StatelessWidget {
 
 ```
 
-foto 3
+![code-snapshot2](https://github.com/appworkspaceRM/widget-drawer/assets/135511281/6d004d45-7c57-41d0-9030-ea80c2d96ff3)
 
 ```dart
 import 'package:flutter/material.dart';
@@ -294,4 +294,4 @@ class PageSetting extends StatelessWidget {
 
 ```
 
-foto 4
+![code-snapshot3](https://github.com/appworkspaceRM/widget-drawer/assets/135511281/df61238f-d0a3-4377-b090-328a0da684e6)
